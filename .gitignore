@@ -1,0 +1,9 @@
+# NUNCA commitar certificados/chaves da TV
+*.p12
+*.pwd
+*.pri
+*.csr
+SamsungCertificate/
+
+# Binarios
+*.wgt
