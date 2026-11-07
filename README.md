@@ -28,6 +28,9 @@ Apps já instalados assim na TV:
 
 ## Pré-requisitos (já feitos — só refazer se algo quebrar)
 
+> Passo a passo completo de como foi feito da primeira vez (Tizen Studio,
+> login Samsung no Certificate Manager, dev mode na TV, DUID): **[docs/setup-do-zero.md](docs/setup-do-zero.md)**
+
 1. **Developer mode na TV**: abrir **Apps**, digitar **12345** no controle,
    ligar *Developer mode* e colocar em **Server IP** o **IP atual do PC**.
    Depois **desligar a TV na tomada** e ligar de novo.
